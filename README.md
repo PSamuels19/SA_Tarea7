@@ -1,6 +1,15 @@
 # SA_Tarea7
 Tarea # 7: Contenedores de Software Avanzado 
 
+Opción 1: Leer un código fuente (lenguaje compilado), hacer una compilación y proveer un sitio web con los artefactos.
+
+http://localhost:3000/
+
+Opción 2: Leer un código fuente de un sitio web (lenguaje libre - interpretado), y realizar el despliegue del sitio web del mismo posterior a un proceso de entrega.
+
+http://localhost:3000/index
+
+
 TIPS
 
 Docker compose
