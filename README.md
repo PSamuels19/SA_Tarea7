@@ -10,7 +10,7 @@ Opción 2: Leer un código fuente de un sitio web (lenguaje libre - interpretado
 http://localhost:3000/index
 
 
-TIPS
+------- TIPS -------
 
 Docker compose
 : tool for defining & running multi-container docker applications
